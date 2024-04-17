@@ -133,7 +133,7 @@ Shery.textAnimate("#page1 h1" /* Element to target.*/, {
   delay: 0.1,
   duration: 2,
   ease: "cubic-bezier(0.23, 1, 0.320, 1)",
-  multiplier: 0.1,
+  multiplier: 0.17,
 });
 
 
